@@ -1,0 +1,69 @@
+/** @format */
+
+* {
+      margin: 0;
+      padding: 0;
+      font-family: consolas;
+      user-select: none;
+    }
+
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      min-width: 100vw;
+      background-color: whitesmoke;
+    }
+
+    .box {
+      position: relative;
+      width: 450px;
+    }
+
+    .box h2 {
+      font-size: 30px;
+      color: #333;
+    }
+
+    .box input {
+      font-size: 25px;
+      letter-spacing: 4px;
+      position: relative;
+      width: 100%;
+      height: 60px;
+      border: none;
+      margin: 15px 0 20px;
+      padding: 0 20px;
+      color: #333;
+      background: transparent;
+      outline: none;
+      box-sizing: border-box;
+      border-radius: 10px;
+      box-shadow: -4px -4px 10px rgba(255, 255, 255, 1), inset 4px 4px 10px rgba(0, 0, 0, 0.05),
+        inset -4px -4px 10px rgba(255, 255, 255, 1), 4px 4px 10px rgba(0, 0, 0, 0.05);
+    }
+
+    .box input::placeholder {
+      letter-spacing: 0px;
+    }
+
+    #btn {
+      position: relative;
+      cursor: pointer;
+      color: cornflowerblue;
+      background: #333;
+      font-size: 25px;
+      display: inline-block;
+      padding: 10px 15px;
+      border-radius: 50px;
+    }
+
+    #btn:hover {
+      color: darkcyan;
+    }
+
+    #btn:active {
+      background: cornsilk;
+      color: crimson;
+    }
