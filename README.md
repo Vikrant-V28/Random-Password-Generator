@@ -4,8 +4,7 @@
 ![Random Password Generator](https://user-images.githubusercontent.com/85709371/148745119-643a827c-c11e-434f-954a-b7ab8544c4fb.png)
 
 <div align="center">
-  <img height="60" src="https://user-images.githubusercontent.com/85709371/153715643-d0d2a5b8-3be9-41bc-9885-de1dc5808a20.png">
-  ![html css js]()
+  <img height="60" src="https://user-images.githubusercontent.com/85709371/160287073-a5916332-8a80-4cb9-beed-965d0de82ef8.png">
   <img height="55" src="https://user-images.githubusercontent.com/85709371/160286209-622d2990-13e6-46a3-9877-2a0b73bb386d.png">
 </div>
 
