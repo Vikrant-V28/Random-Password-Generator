@@ -20,7 +20,7 @@ The simple code to create `Random Password Generator` using HTML, CSS & JavaScri
 ### Output Screenshot
 <details><summary><b>Output</b></summary>
   <p align="center">
-    <a href="Outputs/output.png"><img src="https://user-images.githubusercontent.com/85709371/148729133-450b001c-969b-445e-8272-c71c896e9cb9.png" alt="output"></a>
+    <a href="Outputs/output.png"><img src="https://user-images.githubusercontent.com/85709371/148745119-643a827c-c11e-434f-954a-b7ab8544c4fb.png" alt="output"></a>
   </p>
 </details>
 
