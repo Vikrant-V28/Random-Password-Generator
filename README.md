@@ -1,14 +1,9 @@
-# Random Password Generator
-<!-- Visit <a href="https://thevkrant.github.io/Random-Password-Generator/">Here</a> -->
-
-![Random Password Generator]()
-
 <div align="center">
   <img height="60" src="https://user-images.githubusercontent.com/85709371/160287073-a5916332-8a80-4cb9-beed-965d0de82ef8.png">
   <img height="55" src="https://user-images.githubusercontent.com/85709371/160286209-622d2990-13e6-46a3-9877-2a0b73bb386d.png">
 </div>
 
-# Contact Page
+# Random Password Generator
 The simple code to create `Random Password Generator` using HTML, CSS & JavaScript.
 
 ### Prerequisites
@@ -24,7 +19,7 @@ The simple code to create `Random Password Generator` using HTML, CSS & JavaScri
   </p>
 </details>
 
-<!-- Visit <a href="https://thevkrant.github.io/Contact-page/">Here</a> -->
+<!-- Visit <a href="https://thevkrant.github.io/Random-Password-Generator/">Here</a> -->
 
 ## *Author Name*
 [Vikrant](https://github.com/thevkrant)
