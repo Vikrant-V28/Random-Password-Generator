@@ -9,11 +9,12 @@
 </div>
 
 # Contact Page
-The simple code to create `Contact Page UI` using HTML & CSS.
+The simple code to create `Random Password Generator` using HTML, CSS & JavaScript.
 
 ### Prerequisites
 - HTML
 - CSS
+- JavaScript
 - SCSS
 
 ### Output Screenshot
